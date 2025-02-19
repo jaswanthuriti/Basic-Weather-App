@@ -40,3 +40,9 @@ Detailed Weather Information: View comprehensive weather data including:
 ->Axios for API requests
 
 ->React Icons for weather icons
+
+📫 Contact
+
+Your Name - @jaswanthuriti
+
+Project Link: https://jaswanthuriti.github.io/Basic-Weather-App/
